@@ -1,5 +1,5 @@
 {
-  "name": "citirecruiting",
+  "name": "citirecruitingapp",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -7,6 +7,8 @@
     "test": "jest"
   },
   "dependencies": {
+    "firebase": "^5.5.4",
+    "native-base": "^2.8.1",
     "react": "16.6.0-alpha.8af6728",
     "react-native": "0.57.3",
     "react-navigation": "^2.18.0"

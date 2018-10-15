@@ -1,4 +1,4 @@
-package com.citirecruiting;
+package com.citirecruitingapp;
 
 import android.app.Application;
 

@@ -35,5 +35,5 @@ $ react-native run-android
 ### To-Do
 
 - [x] Login UI
-- [ ] Login Authentication
+- [x] Login Authentication
 - [ ] Dashboad UI
